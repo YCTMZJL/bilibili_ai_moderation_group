@@ -16,7 +16,17 @@ Content Safety Foundation Group at Bilibili Inc.
 | Weihang Wang | 王炜航 | First author on **VisionWeaver** and **MX-Font++**; co-author on **KUROKO** & **TextFlux** |
 | Xueqian Zhao | 赵雪倩 | Co-author on **KUROKO** |
 | Peiyi Li | 李培艺 | Co-author on **OREKI**, **KUROKO**, **VisionWeaver**, **TextFlux** |
-| Longwen Gao | 高龙文 | Senior author across EMNLP 2025/2026 papers; group lead |
+| Longwen Gao | 高龙文 | Senior author across EMNLP 2025/2026 and CGF 2026 papers; group lead |
+
+### Multimodal generation collaborators
+
+| Name (EN) | 中文 | Role |
+| --- | --- | --- |
+| Yu Xie | 谢宇 | First author on **TextFlux** |
+| Pengyu Chen | 陈鹏宇 | Co-author on **TextFlux** |
+| Qian Qiao | 乔乾 | Co-author on **TextFlux** |
+
+> TextFlux is a joint work with the Wangxuan Institute of Computer Technology at Peking University (Prof. Zhouhui Lian).
 
 > Author positions and ordering are taken from the camera-ready / submitted versions of the papers.
 
