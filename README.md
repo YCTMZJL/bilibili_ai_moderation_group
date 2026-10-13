@@ -34,7 +34,7 @@ Our work spans three pillars:
 | --- | --- | --- |
 | 🧠 **Reasoning for Moderation** | When does CoT help, when does it over-fire? | [`OREKI`](papers/OREKI.md) · EMNLP 2026 |
 | 📏 **Severity, not Binary** | Replace 0/1 labels with a human-aligned risk spectrum | [`KUROKO`](papers/KUROKO.md) · EMNLP 2026 |
-| 🖼️ **Culture-Aware VLMs** | Memes, subcultures, retrieval-augmented interpretation | [`MemeBench`](papers/MemeBench.md) · [`Vision-AutonoSearch`](papers/Vision-AutonoSearch.md) · ICLR'27 under review |
+| 🖼️ **Culture-Aware VLMs** | Memes, subcultures, retrieval-augmented interpretation | `MemeBench` · `Vision-AutonoSearch` · ICLR'27 under review |
 | ✒️ **Multilingual Visual Generation** | OCR-free scene text synthesis, data-efficient languages | [`TextFlux`](papers/TextFlux.md) · CGF 2026 |
 | 👁️ **Hallucination-Aware Vision** | Fine-grained hallucination profiling and expert routing | [`VisionWeaver`](papers/VisionWeaver.md) · EMNLP 2025 Findings |
 
@@ -118,14 +118,14 @@ Multimodal search agents answer *given* questions; many images (memes, ads, artw
 
 - VAS-9B leads across 4 VAI + 4 VQA benchmarks (VAI avg **66.2**, overall **61.4**).
 - ECCR raises VAIBench **69.9 → 73.6**, cuts unsupported-claim rate **10.6% → 7.3%**.
-- 📄 Paper withheld during double-blind review · [Details](papers/Vision-AutonoSearch.md)
+- 📄 Paper and details withheld during double-blind review
 
 ### 🧩 MemeBench — *Diagnosing Cultural Meme Interpretation with Rubrics*
 
 LVLMs describe pixels well but miss **meaning that lives outside pixels**. MemeBench is a bilingual (CN + EN) diagnostic benchmark of **1,253** memes centered on ACG and online subcultures, with a **VIKR** rubric (Visual · Identity · Knowledge · Reasoning). Across 26 LVLMs, every model covers *what it sees* better than *what it knows*; even the strongest retains a **22.6% Visual–Knowledge gap**.
 
 - Introduces **KAR**, an entity-guided retrieval baseline over CultureBase; raises VIKR Success by **3.6–7.4%**.
-- 📄 Paper withheld during double-blind review · [Details](papers/MemeBench.md)
+- 📄 Paper and details withheld during double-blind review
 
 ---
 
@@ -137,8 +137,8 @@ LVLMs describe pixels well but miss **meaning that lives outside pixels**. MemeB
 | :---: | :---: | --- | :---: |
 | **2026** | **EMNLP** ⭐ | **When Not to Think: Mitigating the Overthinking Effect in Content Moderation** (OREKI) | [PDF](assets/pdfs/OREKI-When-Not-to-Think.pdf) · [page](papers/OREKI.md) |
 | **2026** | **EMNLP** ⭐ | **Rethinking Content Moderation via Severity-Aware Ranking** (KUROKO) | [PDF](assets/pdfs/KUROKO-Severity-Aware-Ranking.pdf) · [page](papers/KUROKO.md) |
-| 2026 | ICLR *(under review)* | Vision-AutonoSearch: Learning to Investigate Images | _withheld_ · [page](papers/Vision-AutonoSearch.md) |
-| 2026 | ICLR *(under review)* | MemeBench: Diagnosing Cultural Meme Interpretation with Rubrics | _withheld_ · [page](papers/MemeBench.md) |
+| 2026 | ICLR *(under review)* | Vision-AutonoSearch: Learning to Investigate Images | _withheld_ |
+| 2026 | ICLR *(under review)* | MemeBench: Diagnosing Cultural Meme Interpretation with Rubrics | _withheld_ |
 | 2026 | Computer Graphics Forum ⭐ | **TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis** | [DOI](https://doi.org/10.1111/cgf.70342) · [page](papers/TextFlux.md) |
 | 2026 | arXiv | MemeMind: Reference-Guided Trace Construction for Offline Context Optimization | [arXiv:2608.09316](https://arxiv.org/abs/2608.09316) |
 | 2026 | EACL | Breach in the Shield: Unveiling the Vulnerabilities of Large Language Models | — |
