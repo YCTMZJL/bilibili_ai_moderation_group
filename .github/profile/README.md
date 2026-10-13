@@ -118,14 +118,14 @@ Three contributions:
 
 [redacted]
 [redacted]
-[redacted]
+- 📄 Paper and details withheld during double-blind review
 
 [redacted]
 
 LVLMs describe pixels well but miss **meaning that lives outside pixels**. MemeBench is a bilingual (CN + EN) diagnostic benchmark of **1,253** memes centered on ACG and online subcultures, with a **VIKR** rubric (Visual · Identity · Knowledge · Reasoning). Across 26 LVLMs, every model covers *what it sees* better than *what it knows*; even the strongest retains a **22.6% Visual–Knowledge gap**.
 
 - Introduces **KAR**, an entity-guided retrieval baseline over CultureBase; raises VIKR Success by **3.6–7.4%**.
-- 📄 Paper withheld during double-blind review · [Details](papers/MemeBench.md)
+- 📄 Paper and details withheld during double-blind review
 
 ---
 
