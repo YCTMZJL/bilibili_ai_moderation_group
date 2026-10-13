@@ -11,6 +11,7 @@
   <a href="#-highlights--emnlp"><img alt="EMNLP" src="https://img.shields.io/badge/EMNLP-2025%20·%202026%20·%203%20papers-6D28D9?style=flat-square"></a>
   <a href="#-under-review"><img alt="ICLR 2027" src="https://img.shields.io/badge/ICLR-2027%20submissions-0EA5E9?style=flat-square"></a>
   <a href="#-publications"><img alt="Publications" src="https://img.shields.io/badge/Publications-2022%E2%80%932026-10B981?style=flat-square"></a>
+  <a href="papers/TextFlux.md"><img alt="CGF 2026" src="https://img.shields.io/badge/CGF-2026%20·%20TextFlux-DB2777?style=flat-square"></a>
   <a href="#-members"><img alt="Members" src="https://img.shields.io/badge/Team-11%20researchers-F59E0B?style=flat-square"></a>
 </p>
 
@@ -34,13 +35,14 @@ Our work spans three pillars:
 | 🧠 **Reasoning for Moderation** | When does CoT help, when does it over-fire? | [`OREKI`](papers/OREKI.md) · EMNLP 2026 |
 | 📏 **Severity, not Binary** | Replace 0/1 labels with a human-aligned risk spectrum | [`KUROKO`](papers/KUROKO.md) · EMNLP 2026 |
 | 🖼️ **Culture-Aware VLMs** | Memes, subcultures, retrieval-augmented interpretation | [`MemeBench`](papers/MemeBench.md) · [`Vision-AutonoSearch`](papers/Vision-AutonoSearch.md) · ICLR'27 under review |
+| ✒️ **Multilingual Visual Generation** | OCR-free scene text synthesis, data-efficient languages | [`TextFlux`](papers/TextFlux.md) · CGF 2026 |
 | 👁️ **Hallucination-Aware Vision** | Fine-grained hallucination profiling and expert routing | [`VisionWeaver`](papers/VisionWeaver.md) · EMNLP 2025 Findings |
 
 ---
 
-## 🌟 Highlights · EMNLP
+## 🌟 Research Highlights
 
-> Three EMNLP papers across 2025 and 2026, each tackling a distinct failure mode of LLM/LVLM-based moderation.
+> Three EMNLP papers (2025–2026) on reasoning-aware moderation plus one CGF 2026 paper on data-efficient multilingual visual generation.
 
 ### 1. OREKI — *When Not to Think: Mitigating the Overthinking Effect in Content Moderation*
 
@@ -96,6 +98,14 @@ Three contributions:
 - Context-aware routing beats naive feature fusion.
 - 💻 Code: <https://github.com/whwangovo/VisionWeaver> · 📄 [ACL Anthology](https://aclanthology.org/2025.findings-emnlp.936/) · [Details & BibTeX](papers/VisionWeaver.md)
 
+### 4. TextFlux — *An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis*
+
+<p align="center"><sub>Computer Graphics Forum 2026 · with Peking University (Wangxuan Institute)</sub></p>
+
+> **TL;DR**  Diffusion-based scene text synthesis has leaned on extra visual-conditioning modules and large annotated corpora to go multilingual. **TextFlux** shows a cleaner path: a DiT-based framework with **no OCR encoder**, trained on **~1% of the data** competing methods need, that still handles **low-resource languages with <1,000 samples** and gives precise **multi-line layout control**.
+
+- 📄 [DOI](https://doi.org/10.1111/cgf.70342) · 💻 Code: <https://github.com/yyyyyxie/textflux> · [Details & BibTeX](papers/TextFlux.md)
+
 ---
 
 ## 🧪 Under Review
@@ -129,7 +139,7 @@ LVLMs describe pixels well but miss **meaning that lives outside pixels**. MemeB
 | **2026** | **EMNLP** ⭐ | **Rethinking Content Moderation via Severity-Aware Ranking** (KUROKO) | [PDF](assets/pdfs/KUROKO-Severity-Aware-Ranking.pdf) · [page](papers/KUROKO.md) |
 | 2026 | ICLR *(under review)* | Vision-AutonoSearch: Learning to Investigate Images | _withheld_ · [page](papers/Vision-AutonoSearch.md) |
 | 2026 | ICLR *(under review)* | MemeBench: Diagnosing Cultural Meme Interpretation with Rubrics | _withheld_ · [page](papers/MemeBench.md) |
-| 2026 | Computer Graphics Forum | TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis | [DOI](https://doi.org/10.1111/cgf.70258) |
+| 2026 | Computer Graphics Forum ⭐ | **TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis** | [DOI](https://doi.org/10.1111/cgf.70342) · [page](papers/TextFlux.md) |
 | 2026 | arXiv | MemeMind: Reference-Guided Trace Construction for Offline Context Optimization | [arXiv:2608.09316](https://arxiv.org/abs/2608.09316) |
 | 2026 | EACL | Breach in the Shield: Unveiling the Vulnerabilities of Large Language Models | — |
 | **2025** | **EMNLP Findings** ⭐ | **Diving into Mitigating Hallucinations from a Vision Perspective for LVLMs** (VisionWeaver) | [Anthology](https://aclanthology.org/2025.findings-emnlp.936/) · [page](papers/VisionWeaver.md) |
