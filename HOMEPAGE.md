@@ -66,7 +66,7 @@ Our work spans three pillars:
 
 <p align="center"><sub>EMNLP 2026 · Main</sub></p>
 
-<p align="center">
+<p align="center" style="margin: 0.5rem auto;">
 <img src="assets/figures/KUROKO_fig1.png" alt="KUROKO — from binary classification to severity-aware ranking"/>
 </p>
 
@@ -76,17 +76,17 @@ Our work spans three pillars:
 
 **2. Verifiable Alignment & Interpretability** — a severity-aware data engine plus verifiable RL turns black-box verdicts into transparent diagnostics.
 
-<p align="center">
+<p align="center" style="margin: 0.5rem auto;">
 <img src="assets/figures/KUROKO_fig2.png" alt="KUROKO severity-aware data engine" width="60%"/>
 </p>
-<p align="center"><sub>Severity-aware data engine driving verifiable alignment</sub></p>
+<p align="center" style="margin: 0.25rem auto;"><sub>Severity-aware data engine driving verifiable alignment</sub></p>
 
 **3. Cost-Efficient Deployment** — a coarse-to-fine inference stack with a lightweight recall classifier; **compact models rival proprietary VLMs**.
 
-<p align="center">
+<p align="center" style="margin: 0.5rem auto;">
 <img src="assets/figures/KUROKO_fig4.png" alt="KUROKO coarse-to-fine deployment"/>
 </p>
-<p align="center"><sub>Coarse-to-fine deployment with a lightweight recall classifier</sub></p>
+<p align="center" style="margin: 0.25rem auto;"><sub>Coarse-to-fine deployment with a lightweight recall classifier</sub></p>
 
 - Extensive offline + **online A/B** evidence over traditional binary baselines.
 - 📄 [Paper (PDF)](assets/pdfs/KUROKO-Severity-Aware-Ranking.pdf) · [Details & BibTeX](papers/KUROKO.md)
