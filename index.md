@@ -72,7 +72,7 @@ Our work spans three pillars:
 <p align="center"><sub>EMNLP 2026 · Main</sub></p>
 
 <p align="center">
-<img src="assets/figures/KUROKO_fig1.png" alt="KUROKO — from binary classification to severity-aware ranking" width="100%"/>
+<img src="assets/figures/KUROKO_fig1.png" alt="KUROKO — from binary classification to severity-aware ranking" width="60%"/>
 </p>
 
 > **TL;DR**  Real-world content lives on a **continuous risk spectrum**, not a binary wall. **KUROKO** is a severity-aware moderation system: a verifiable RL recipe + severity data engine + a coarse-to-fine deployment stack that lets a compact VLM rival proprietary APIs at a fraction of the cost.
