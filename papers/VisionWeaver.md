@@ -1,3 +1,9 @@
+---
+layout: default
+title: VisionWeaver
+permalink: /papers/VisionWeaver/
+---
+
 # VisionWeaver — Diving into Mitigating Hallucinations from a Vision Perspective for LVLMs
 
 > **Venue** · EMNLP 2025 (Findings)  

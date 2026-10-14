@@ -1,3 +1,9 @@
+---
+layout: default
+title: OREKI
+permalink: /papers/OREKI/
+---
+
 # OREKI — When Not to Think: Mitigating the Overthinking Effect in Content Moderation
 
 > **Venue** · EMNLP 2026 (Main)  

@@ -1,0 +1,121 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Bilibili brand palette */
+$bili-pink: #FB7299;
+$bili-blue: #00AEEC;
+$bili-pink-dark: #E85B88;
+$bili-blue-dark: #0097D1;
+$ink: #1F2937;
+
+/* Header gradient: pink → blue */
+.page-header {
+  background-color: $bili-pink;
+  background-image: linear-gradient(135deg, $bili-pink 0%, #B583C4 50%, $bili-blue 100%);
+}
+
+/* 主标题强调度 */
+.project-name {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+.project-tagline {
+  opacity: 0.95;
+}
+
+/* Buttons */
+.btn {
+  color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 255, 255, 0.4);
+  transition: all 0.2s ease;
+
+  &:hover {
+    background-color: rgba(255, 255, 255, 0.22);
+    border-color: rgba(255, 255, 255, 0.75);
+  }
+}
+
+/* 正文链接改成蓝色，hover 粉色 */
+.main-content {
+  a {
+    color: $bili-blue-dark;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: all 0.15s ease;
+  }
+  a:hover {
+    color: $bili-pink;
+    border-bottom-color: $bili-pink;
+  }
+
+  /* 标题前的小粉条 */
+  h2 {
+    position: relative;
+    padding-left: 0.9rem;
+    border-bottom: 1px solid #eef1f5;
+    padding-bottom: 0.3rem;
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0;
+      top: 0.35em;
+      bottom: 0.4em;
+      width: 4px;
+      border-radius: 2px;
+      background: linear-gradient(180deg, $bili-pink, $bili-blue);
+    }
+  }
+
+  h3 {
+    color: $ink;
+  }
+
+  /* code 色调 */
+  code {
+    background: #FFF2F6;
+    color: $bili-pink-dark;
+    padding: 1px 6px;
+    border-radius: 4px;
+  }
+
+  pre code {
+    background: #0f172a;
+    color: #e2e8f0;
+    padding: 0;
+  }
+
+  /* 表格 */
+  table {
+    th {
+      background: linear-gradient(135deg, rgba(251,114,153,0.08), rgba(0,174,236,0.08));
+    }
+    tr:hover td {
+      background: #FFF7FA;
+    }
+  }
+
+  /* blockquote 用粉色左边条 */
+  blockquote {
+    color: #4b5563;
+    border-left: 4px solid $bili-pink;
+    background: #FFF7FA;
+    padding: 0.6rem 1rem;
+    border-radius: 0 6px 6px 0;
+    margin: 1rem 0;
+  }
+
+  img {
+    border-radius: 6px;
+  }
+}
+
+/* Footer */
+.site-footer {
+  border-top: 1px solid #eef1f5;
+}
+.site-footer-credits {
+  color: #9ca3af;
+}
