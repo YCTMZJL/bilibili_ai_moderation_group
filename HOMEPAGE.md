@@ -101,6 +101,11 @@ Three contributions:
 
 <p align="center"><sub>Computer Graphics Forum 2026 · with Peking University (Wangxuan Institute)</sub></p>
 
+<p align="center">
+  <img src="assets/figures/TextFlux_showcase.jpg" alt="TextFlux multilingual scene-text editing across English, Chinese, Korean, and Japanese" width="92%"/>
+  <br/><sub>Multilingual scene-text synthesis across English, Chinese, Korean, and Japanese — each row edits the masked region into a new word while preserving background, font, and lighting.</sub>
+</p>
+
 > **TL;DR**  Diffusion-based scene text synthesis has leaned on extra visual-conditioning modules and large annotated corpora to go multilingual. **TextFlux** shows a cleaner path: a DiT-based framework with **no OCR encoder**, trained on **~1% of the data** competing methods need, that still handles **low-resource languages with <1,000 samples** and gives precise **multi-line layout control**.
 
 - 📄 [DOI](https://doi.org/10.1111/cgf.70342) · 💻 Code: <https://github.com/yyyyyxie/textflux> · [Details & BibTeX](papers/TextFlux.md)
