@@ -1,3 +1,9 @@
+---
+layout: default
+title: KUROKO
+permalink: /papers/KUROKO/
+---
+
 # KUROKO — Rethinking Content Moderation via Severity-Aware Ranking
 
 > **Venue** · EMNLP 2026 (Main)  

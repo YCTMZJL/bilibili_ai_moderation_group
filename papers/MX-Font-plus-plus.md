@@ -1,3 +1,9 @@
+---
+layout: default
+title: MX-Font-plus-plus
+permalink: /papers/MX-Font-plus-plus/
+---
+
 # MX-Font++ — Mixture of Heterogeneous Aggregation Experts for Few-shot Font Generation
 
 > **Venue** · ICASSP 2025  

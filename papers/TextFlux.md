@@ -1,3 +1,9 @@
+---
+layout: default
+title: TextFlux
+permalink: /papers/TextFlux/
+---
+
 # TextFlux — An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis
 
 > **Venue** · Computer Graphics Forum 2026  

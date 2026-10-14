@@ -1,3 +1,9 @@
+---
+layout: default
+title: DNTextSpotter
+permalink: /papers/DNTextSpotter/
+---
+
 # DNTextSpotter — Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training
 
 > **Venue** · ACM Multimedia 2024 (ACM MM)  
@@ -25,7 +31,7 @@ Transformer-based end-to-end text spotters rely on **bipartite graph matching** 
 
 ## Why it is on this page
 
-Scene text spotting is upstream of several moderation tasks: subtitle screenshots, screen-recorded game chats, meme overlays. Together with [`TextFlux`](TextFlux.md) (OCR-free DiT text synthesis), DNTextSpotter rounds out the group's **text-in-image** stack from recognition to generation.
+Scene text spotting is upstream of several moderation tasks: subtitle screenshots, screen-recorded game chats, meme overlays. Together with [`TextFlux`](/papers/TextFlux/) (OCR-free DiT text synthesis), DNTextSpotter rounds out the group's **text-in-image** stack from recognition to generation.
 
 ## BibTeX
 
