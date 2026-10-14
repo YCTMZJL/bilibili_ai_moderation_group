@@ -155,19 +155,19 @@ The team spans multimodal reasoning, content safety, and systems engineering. Se
 
 <table>
 <tr>
-  <td align="center"><sub><b>Jielei Zhang</b><br/>张杰磊</sub></td>
-  <td align="center"><sub><b>Yu Dai</b><br/>戴宇</sub></td>
-  <td align="center"><sub><b>Yang Ou</b><br/>欧阳</sub></td>
-  <td align="center"><sub><b>Zian Yang</b><br/>杨子安</sub></td>
-  <td align="center"><sub><b>Run Yang</b><br/>杨润</sub></td>
-  <td align="center"><sub><b>Xiang Li</b><br/>李祥</sub></td>
+  <td align="center"><sub><b>Jielei Zhang</b></sub></td>
+  <td align="center"><sub><b>Yu Dai</b></sub></td>
+  <td align="center"><sub><b>Yang Ou</b></sub></td>
+  <td align="center"><sub><b>Zian Yang</b></sub></td>
+  <td align="center"><sub><b>Run Yang</b></sub></td>
+  <td align="center"><sub><b>Xiang Li</b></sub></td>
 </tr>
 <tr>
-  <td align="center"><sub><b>Qingyao Zhuang</b><br/>庄庆尧</sub></td>
-  <td align="center"><sub><b>Weihang Wang</b><br/>王炜航</sub></td>
-  <td align="center"><sub><b>Xueqian Zhao</b><br/>赵雪倩</sub></td>
-  <td align="center"><sub><b>Peiyi Li</b><br/>李培艺</sub></td>
-  <td align="center"><sub><b>Longwen Gao</b><br/>高龙文</sub></td>
+  <td align="center"><sub><b>Qingyao Zhuang</b></sub></td>
+  <td align="center"><sub><b>Weihang Wang</b></sub></td>
+  <td align="center"><sub><b>Xueqian Zhao</b></sub></td>
+  <td align="center"><sub><b>Peiyi Li</b></sub></td>
+  <td align="center"><sub><b>Longwen Gao</b></sub></td>
   <td align="center"><sub><sup>and collaborators</sup></sub></td>
 </tr>
 </table>
