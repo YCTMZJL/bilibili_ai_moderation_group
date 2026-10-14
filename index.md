@@ -72,21 +72,23 @@ Our work spans three pillars:
 <p align="center"><sub>EMNLP 2026 · Main</sub></p>
 
 <p align="center">
-  <img src="assets/figures/KUROKO_fig1.png" alt="KUROKO — from binary classification to severity-aware ranking" width="100%"/>
+<img src="assets/figures/KUROKO_fig1.png" alt="KUROKO — from binary classification to severity-aware ranking" width="100%"/>
 </p>
 
 > **TL;DR**  Real-world content lives on a **continuous risk spectrum**, not a binary wall. **KUROKO** is a severity-aware moderation system: a verifiable RL recipe + severity data engine + a coarse-to-fine deployment stack that lets a compact VLM rival proprietary APIs at a fraction of the cost.
 
-Three contributions:
+**Three contributions**
 
-1. **Human-Centric Severity Ranking** — nuanced, expert-level rationales aligned with human judgement, replacing rigid binary divides.
-2. **Verifiable Alignment & Interpretability** — a severity-aware data engine plus verifiable RL turns black-box verdicts into transparent diagnostics.
-3. **Cost-Efficient Deployment** — a coarse-to-fine inference stack with a lightweight recall classifier; **compact models rival proprietary VLMs**.
+**1. Human-Centric Severity Ranking** — nuanced, expert-level rationales aligned with human judgement, replacing rigid binary divides.
+
+**2. Verifiable Alignment & Interpretability** — a severity-aware data engine plus verifiable RL turns black-box verdicts into transparent diagnostics.
 
 <p align="center">
-  <img src="assets/figures/KUROKO_fig2.png" alt="KUROKO data engine overview" width="70%"/>
-  <br/><sub>Severity-aware data engine</sub>
+  <img src="assets/figures/KUROKO_fig2.png" alt="KUROKO severity-aware data engine" width="68%"/>
+  <br/><sub>Severity-aware data engine driving verifiable alignment</sub>
 </p>
+
+**3. Cost-Efficient Deployment** — a coarse-to-fine inference stack with a lightweight recall classifier; **compact models rival proprietary VLMs**.
 
 <p align="center">
   <img src="assets/figures/KUROKO_fig4.png" alt="KUROKO coarse-to-fine deployment" width="100%"/>
