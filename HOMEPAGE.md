@@ -120,7 +120,7 @@ Our work spans three pillars:
 
 ## 🧪 Under Review
 
-Two papers from the group are currently under double-blind review for **ICLR 2027**. PDFs are the submitted versions.
+More papers from the group are currently under double-blind review for **ICLR 2027**.
 
 ### 🔎 Vision-AutonoSearch — *Learning to Investigate Images*
 
