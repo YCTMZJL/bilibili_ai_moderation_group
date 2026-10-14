@@ -1,30 +1,30 @@
-# Members · 团队成员
+# Members
 
 Content Safety Foundation Group at Bilibili Inc.
 
 ## Core research
 
-| Name (EN) | 中文 | Representative role |
-| --- | --- | --- |
-| Jielei Zhang | 张杰磊 | Co-first on **KUROKO**; co-author on **OREKI** & **VisionWeaver** & **MX-Font++** |
-| Yu Dai | 戴宇 | First author on **OREKI**; co-author on **KUROKO** |
-| Yang Ou | 欧阳 | Co-first on **KUROKO**; co-author on **OREKI** |
-| Zian Yang | 杨子安 | Co-author on **OREKI** and **KUROKO** |
-| Run Yang | 杨润 | Co-author on **OREKI** and **KUROKO** |
-| Xiang Li | 李祥 | Co-author on **OREKI** and **KUROKO** |
-| Qingyao Zhuang | 庄庆尧 | Co-author on **OREKI** |
-| Weihang Wang | 王炜航 | First author on **VisionWeaver** and **MX-Font++**; co-author on **KUROKO** & **TextFlux** |
-| Xueqian Zhao | 赵雪倩 | Co-author on **KUROKO** |
-| Peiyi Li | 李培艺 | Co-author on **OREKI**, **KUROKO**, **VisionWeaver**, **TextFlux** |
-| Longwen Gao | 高龙文 | Senior author across EMNLP 2025/2026 and CGF 2026 papers; group lead |
+| Name | Representative role |
+| --- | --- |
+| Jielei Zhang | Co-first on **KUROKO**; co-author on **OREKI**, **VisionWeaver**, **MX-Font++** |
+| Yu Dai | First author on **OREKI**; co-author on **KUROKO** |
+| Yang Ou | Co-first on **KUROKO**; co-author on **OREKI** |
+| Zian Yang | Co-author on **OREKI** and **KUROKO** |
+| Run Yang | Co-author on **OREKI** and **KUROKO** |
+| Xiang Li | Co-author on **OREKI** and **KUROKO** |
+| Qingyao Zhuang | Co-author on **OREKI** |
+| Weihang Wang | First author on **VisionWeaver** and **MX-Font++**; co-author on **KUROKO** and **TextFlux** |
+| Xueqian Zhao | Co-author on **KUROKO** |
+| Peiyi Li | Co-author on **OREKI**, **KUROKO**, **VisionWeaver**, **TextFlux** |
+| Longwen Gao | Senior author across EMNLP 2025/2026 and CGF 2026 papers; group lead |
 
 ### Multimodal generation collaborators
 
-| Name (EN) | 中文 | Role |
-| --- | --- | --- |
-| Yu Xie | 谢宇 | First author on **TextFlux** |
-| Pengyu Chen | 陈鹏宇 | Co-author on **TextFlux** |
-| Qian Qiao | 乔乾 | Co-author on **TextFlux** |
+| Name | Role |
+| --- | --- |
+| Yu Xie | First author on **TextFlux** |
+| Pengyu Chen | Co-author on **TextFlux** |
+| Qian Qiao | Co-author on **TextFlux** |
 
 > TextFlux is a joint work with the Wangxuan Institute of Computer Technology at Peking University (Prof. Zhouhui Lian).
 
