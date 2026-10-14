@@ -12,7 +12,6 @@
   <a href="#-under-review"><img alt="ICLR 2027" src="https://img.shields.io/badge/ICLR-2027%20submissions-0EA5E9?style=flat-square"></a>
   <a href="#-publications"><img alt="Publications" src="https://img.shields.io/badge/Publications-2022%E2%80%932026-10B981?style=flat-square"></a>
   <a href="papers/TextFlux.md"><img alt="CGF 2026" src="https://img.shields.io/badge/CGF-2026%20·%20TextFlux-DB2777?style=flat-square"></a>
-  <a href="#-members"><img alt="Members" src="https://img.shields.io/badge/Team-11%20researchers-F59E0B?style=flat-square"></a>
 </p>
 
 <p><em>Making content moderation reasoning-aware, severity-aware, and culture-aware.</em></p>
@@ -150,30 +149,6 @@ LVLMs describe pixels well but miss **meaning that lives outside pixels**. MemeB
 
 ---
 
-## 👥 Members
-
-The team spans multimodal reasoning, content safety, and systems engineering. See [`MEMBERS.md`](MEMBERS.md) for roles.
-
-<table>
-<tr>
-  <td align="center"><sub><b>Jielei Zhang</b></sub></td>
-  <td align="center"><sub><b>Yu Dai</b></sub></td>
-  <td align="center"><sub><b>Yang Ou</b></sub></td>
-  <td align="center"><sub><b>Zian Yang</b></sub></td>
-  <td align="center"><sub><b>Run Yang</b></sub></td>
-  <td align="center"><sub><b>Xiang Li</b></sub></td>
-</tr>
-<tr>
-  <td align="center"><sub><b>Qingyao Zhuang</b></sub></td>
-  <td align="center"><sub><b>Weihang Wang</b></sub></td>
-  <td align="center"><sub><b>Xueqian Zhao</b></sub></td>
-  <td align="center"><sub><b>Peiyi Li</b></sub></td>
-  <td align="center"><sub><b>Longwen Gao</b></sub></td>
-  <td align="center"><sub><sup>and collaborators</sup></sub></td>
-</tr>
-</table>
-
----
 
 ## 🤝 Collaborate & Contact
 
