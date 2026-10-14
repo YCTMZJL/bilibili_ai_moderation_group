@@ -6,7 +6,7 @@ Content Safety Foundation Group at Bilibili Inc.
 
 | Name | Representative role |
 | --- | --- |
-| Jielei Zhang | Co-first on **KUROKO**; co-author on **OREKI**, **VisionWeaver**, **MX-Font++** |
+| Jielei Zhang | Co-first on **KUROKO**; co-author on **OREKI**, **VisionWeaver**, **MX-Font++**, **DNTextSpotter** |
 | Yu Dai | First author on **OREKI**; co-author on **KUROKO** |
 | Yang Ou | Co-first on **KUROKO**; co-author on **OREKI** |
 | Zian Yang | Co-author on **OREKI** and **KUROKO** |
@@ -22,11 +22,11 @@ Content Safety Foundation Group at Bilibili Inc.
 
 | Name | Role |
 | --- | --- |
-| Yu Xie | First author on **TextFlux** |
+| Yu Xie | First author on **DNTextSpotter**; first author on **TextFlux** |
 | Pengyu Chen | Co-author on **TextFlux** |
-| Qian Qiao | Co-author on **TextFlux** |
+| Qian Qiao | Co-author on **DNTextSpotter** and **TextFlux** |
 
-> TextFlux is a joint work with the Wangxuan Institute of Computer Technology at Peking University (Prof. Zhouhui Lian).
+> TextFlux is a joint work with the Wangxuan Institute of Computer Technology at Peking University (Prof. Zhouhui Lian). DNTextSpotter is a joint work with Soochow University.
 
 > Author positions and ordering are taken from the camera-ready / submitted versions of the papers.
 

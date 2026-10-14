@@ -35,7 +35,7 @@ Our work spans three pillars:
 | 🧠 **Reasoning for Moderation** | When does CoT help, when does it over-fire? | [`OREKI`](papers/OREKI.md) · EMNLP 2026 |
 | 📏 **Severity, not Binary** | Replace 0/1 labels with a human-aligned risk spectrum | [`KUROKO`](papers/KUROKO.md) · EMNLP 2026 |
 [redacted]
-| ✒️ **Multilingual Visual Generation** | OCR-free scene text synthesis, data-efficient languages | [`TextFlux`](papers/TextFlux.md) · CGF 2026 |
+| ✒️ **Scene-Text Stack** | Recognition + OCR-free synthesis for text-in-image | [`DNTextSpotter`](papers/DNTextSpotter.md) · MM 2024 · [`TextFlux`](papers/TextFlux.md) · CGF 2026 |
 | 👁️ **Hallucination-Aware Vision** | Fine-grained hallucination profiling and expert routing | [`VisionWeaver`](papers/VisionWeaver.md) · EMNLP 2025 Findings |
 
 ---
@@ -144,6 +144,7 @@ LVLMs describe pixels well but miss **meaning that lives outside pixels**. MemeB
 | 2026 | EACL | Breach in the Shield: Unveiling the Vulnerabilities of Large Language Models | — |
 | **2025** | **EMNLP Findings** ⭐ | **Diving into Mitigating Hallucinations from a Vision Perspective for LVLMs** (VisionWeaver) | [Anthology](https://aclanthology.org/2025.findings-emnlp.936/) · [page](papers/VisionWeaver.md) |
 | 2025 | ICASSP | MX-Font++: Mixture of Heterogeneous Aggregation Experts for Few-shot Font Generation | [DOI](https://doi.org/10.1109/icassp49660.2025.10888465) · [page](papers/MX-Font-plus-plus.md) |
+| 2024 | ACM MM | DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training | [DOI](https://doi.org/10.1145/3664647.3680981) · [arXiv](https://arxiv.org/abs/2408.00355) · [page](papers/DNTextSpotter.md) |
 
 > 📌 This list reflects papers the group has publicly released or had accepted. If an older preprint or workshop paper is missing, see [`CHANGELOG.md`](CHANGELOG.md) or open an issue.
 
