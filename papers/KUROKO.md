@@ -36,15 +36,15 @@ Online video content moderation is critical for protecting minors, but violation
 ## Pipeline at a glance
 
 <p align="center">
-  <img src="../assets/figures/KUROKO_fig2.png" alt="Severity-aware data engine" width="48%"/>
+  <img src="../assets/figures/KUROKO_fig2.png" alt="Severity-aware data engine" width="42%"/>
   &nbsp;
-  <img src="../assets/figures/KUROKO_fig3.png" alt="Verifiable RL training" width="48%"/>
+  <img src="../assets/figures/KUROKO_fig3.png" alt="Verifiable RL training" width="54%"/>
 </p>
 
 <p align="center">
-  <img src="../assets/figures/KUROKO_fig4.png" alt="Coarse-to-fine deployment" width="48%"/>
+  <img src="../assets/figures/KUROKO_fig4.png" alt="Coarse-to-fine deployment" width="40%"/>
   &nbsp;
-  <img src="../assets/figures/KUROKO_fig5.png" alt="Severity analysis & human alignment" width="48%"/>
+  <img src="../assets/figures/KUROKO_fig5.png" alt="Severity analysis &amp; human alignment" width="56%"/>
 </p>
 
 ## Results
