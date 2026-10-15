@@ -7,6 +7,7 @@ permalink: /papers/KUROKO/
 # KUROKO — Rethinking Content Moderation via Severity-Aware Ranking
 
 > **Venue** · EMNLP 2026 (Main)  
+> **Project page** · <https://bilibili-kuroko.github.io>  
 > **PDF** · [`assets/pdfs/KUROKO-Severity-Aware-Ranking.pdf`](../assets/pdfs/KUROKO-Severity-Aware-Ranking.pdf)
 
 **Authors** · Yang Ou\*, Jielei Zhang\*†, Yu Dai, Zian Yang, Run Yang, Xiang Li, Weihang Wang, Xueqian Zhao, Peiyi Li, Longwen Gao — *Bilibili Inc.*  
