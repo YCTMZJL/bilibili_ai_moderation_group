@@ -6,7 +6,7 @@ permalink: /papers/TextFlux/
 
 # TextFlux — An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis
 
-> **Venue** · Computer Graphics Forum 2026  
+> **Venue** · Eurographics 2026 (published in Computer Graphics Forum)  
 > **Paper** · [DOI](https://doi.org/10.1111/cgf.70342) · [arXiv](https://arxiv.org/abs/2505.17778)  
 > **Code** · <https://github.com/yyyyyxie/textflux>
 
