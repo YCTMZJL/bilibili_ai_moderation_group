@@ -10,7 +10,6 @@
 - **Under review** · *MemeBench: What LVLMs Miss When Interpreting Culture-Dependent Memes* ([arXiv:2607.27798](https://arxiv.org/abs/2607.27798)).
 - **Eurographics 2026** · *TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis* ([DOI](https://doi.org/10.1111/cgf.70342) · code: <https://github.com/yyyyyxie/textflux>).
 - **arXiv 2026** · *MemeMind: Reference-Guided Trace Construction for Offline Context Optimization* ([arXiv:2608.09316](https://arxiv.org/abs/2608.09316)).
-- **EACL 2026** · *Breach in the Shield: Unveiling the Vulnerabilities of Large Language Models*.
 
 ## 2025
 
