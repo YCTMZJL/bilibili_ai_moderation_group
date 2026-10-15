@@ -13,7 +13,7 @@ This page is maintained solely for academic research and scholarly exchange, and
 <table align="center" style="border: none; margin: 0 auto;">
 <tr style="border: none;">
 <td align="right" style="border: none; padding: 0 6px 0 0; vertical-align: middle;">
-  <img src="assets/figures/mascot.png" alt="Group mascot" width="104"/>
+  <img src="assets/figures/mascot.png" alt="Group mascot" width="188"/>
 </td>
 <td align="left" style="border: none; padding: 0; vertical-align: middle;">
   <h1 style="margin: 0; border: none; padding: 0;">Content Safety Foundation Group</h1>
@@ -48,7 +48,7 @@ Our work spans six directions:
 | --- | --- | --- |
 | 🧠 **Reasoning for Moderation** | When does CoT help, when does it over-fire? | [`OREKI`](papers/OREKI.md) · EMNLP 2026 |
 | 📏 **Severity, not Binary** | Replace 0/1 labels with a human-aligned risk spectrum | [`KUROKO`](papers/KUROKO.md) · EMNLP 2026 |
-| 🖼️ **Culture-Aware VLMs** | Memes, subcultures, retrieval-augmented interpretation | `MemeBench` · `Vision-AutonoSearch` · under review |
+| 🖼️ **Culture-Aware VLMs** | Memes, subcultures, retrieval-augmented interpretation | [`MemeBench`](https://arxiv.org/abs/2607.27798) · more under review |
 | ✒️ **Scene-Text Stack** | Recognition + OCR-free synthesis for text-in-image | [`DNTextSpotter`](papers/DNTextSpotter.md) · MM 2024 · [`TextFlux`](papers/TextFlux.md) · CGF 2026 |
 | 👁️ **Hallucination-Aware Vision** | Fine-grained hallucination profiling and expert routing | [`VisionWeaver`](papers/VisionWeaver.md) · EMNLP 2025 Findings |
 | 🔍 **Retrieval for Moderation** | Large-scale multimodal retrieval and recall over risky content | Technical report *coming soon* |
@@ -156,8 +156,8 @@ Several manuscripts from this line are under double-blind review. Venues and dra
 | :---: | :---: | --- | :---: |
 | **2026** | **EMNLP** ⭐ | **When Not to Think: Mitigating the Overthinking Effect in Content Moderation** (OREKI) | [PDF](assets/pdfs/OREKI-When-Not-to-Think.pdf) · [page](papers/OREKI.md) |
 | **2026** | **EMNLP** ⭐ | **Rethinking Content Moderation via Severity-Aware Ranking** (KUROKO) | [PDF](assets/pdfs/KUROKO-Severity-Aware-Ranking.pdf) · [page](papers/KUROKO.md) |
-| 2026 | *Under review* | Vision-AutonoSearch: Learning to Investigate Images | _withheld_ |
-| 2026 | *Under review* | MemeBench: Diagnosing Cultural Meme Interpretation with Rubrics | _withheld_ |
+| 2026 | *Under review* | *Title withheld during double-blind review* | _withheld_ |
+| 2026 | arXiv | MemeBench: What LVLMs Miss When Interpreting Culture-Dependent Memes | [arXiv:2607.27798](https://arxiv.org/abs/2607.27798) |
 | 2026 | Computer Graphics Forum ⭐ | **TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis** | [DOI](https://doi.org/10.1111/cgf.70342) · [page](papers/TextFlux.md) |
 | 2026 | arXiv | MemeMind: Reference-Guided Trace Construction for Offline Context Optimization | [arXiv:2608.09316](https://arxiv.org/abs/2608.09316) |
 | 2026 | EACL | Breach in the Shield: Unveiling the Vulnerabilities of Large Language Models | — |
