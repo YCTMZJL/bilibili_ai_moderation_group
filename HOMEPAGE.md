@@ -3,6 +3,11 @@
 <!--  内容安全基座小组 · Bilibili                                   -->
 <!-- ============================================================ -->
 
+<p align="center" class="page-disclaimer"><sub>
+This page is maintained solely for academic research and scholarly exchange, and is not intended for any commercial use.<br/>
+本主页仅用于学术研究与交流，不作任何商业用途。
+</sub></p>
+
 <div align="center">
 
 # Content Safety Foundation Group<br/><sub>内容安全基座小组 · Bilibili Inc.</sub>

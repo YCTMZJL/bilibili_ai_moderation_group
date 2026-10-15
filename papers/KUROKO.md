@@ -18,7 +18,7 @@ permalink: /papers/KUROKO/
 ## Hero figure
 
 <p align="center">
-  <img src="../assets/figures/KUROKO_fig1.png" alt="From binary classification to severity-aware ranking" width="92%"/>
+  <img src="../assets/figures/KUROKO_fig1.png" alt="From binary classification to severity-aware ranking" width="78%"/>
 </p>
 
 ## Why this paper
@@ -41,9 +41,9 @@ Online video content moderation is critical for protecting minors, but violation
 <p align="center"><sub>Verifiable RL training framework</sub></p>
 
 <p align="center">
-  <img src="../assets/figures/KUROKO_fig2.png" alt="Severity-aware data engine" width="58%"/>
+  <img src="../assets/figures/KUROKO_fig2.png" alt="Severity-aware data engine" width="70%"/>
   &nbsp;
-  <img src="../assets/figures/KUROKO_fig4.png" alt="Coarse-to-fine deployment" width="34%"/>
+  <img src="../assets/figures/KUROKO_fig4.png" alt="Coarse-to-fine deployment" width="24%"/>
 </p>
 
 <p align="center">
