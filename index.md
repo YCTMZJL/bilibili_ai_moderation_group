@@ -90,7 +90,7 @@ Our work spans six directions:
 **3. Cost-Efficient Deployment** — a coarse-to-fine inference stack with a lightweight recall classifier; **compact models rival proprietary VLMs**.
 
 <p align="center" style="margin: 0.5rem auto;">
-<img src="assets/figures/KUROKO_fig4.png" alt="KUROKO coarse-to-fine deployment" width="70%"/>
+<img src="assets/figures/KUROKO_fig4.png" alt="KUROKO coarse-to-fine deployment" width="55%"/>
 </p>
 <p align="center" style="margin: 0.25rem auto;"><sub>Coarse-to-fine deployment with a lightweight recall classifier</sub></p>
 
