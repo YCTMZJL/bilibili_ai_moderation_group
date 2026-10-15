@@ -32,7 +32,7 @@ We are the **Content Safety Foundation Group** at Bilibili. Our research sits at
 
 我们专注于**大模型内容安全**方向，围绕 Bilibili 的视频、图像、文本审核场景，研究如何让多模态推理模型真正"看懂"内容、"分清"程度、"听懂"文化。
 
-Our work spans three pillars:
+Our work spans six directions:
 
 | Pillar | What we tackle | Representative work |
 | --- | --- | --- |
@@ -41,6 +41,7 @@ Our work spans three pillars:
 | 🖼️ **Culture-Aware VLMs** | Memes, subcultures, retrieval-augmented interpretation | `MemeBench` · `Vision-AutonoSearch` · ICLR'27 under review |
 | ✒️ **Scene-Text Stack** | Recognition + OCR-free synthesis for text-in-image | [`DNTextSpotter`](papers/DNTextSpotter/) · MM 2024 · [`TextFlux`](papers/TextFlux/) · CGF 2026 |
 | 👁️ **Hallucination-Aware Vision** | Fine-grained hallucination profiling and expert routing | [`VisionWeaver`](papers/VisionWeaver/) · EMNLP 2025 Findings |
+| 🔍 **Retrieval for Moderation** | Large-scale multimodal retrieval and recall over risky content | Technical report *coming soon* |
 
 ---
 
