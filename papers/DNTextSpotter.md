@@ -9,7 +9,7 @@ permalink: /papers/DNTextSpotter/
 > **Venue** · ACM Multimedia 2024 (ACM MM)  
 > **Paper** · [ACM DL](https://doi.org/10.1145/3664647.3680981) · [arXiv:2408.00355](https://arxiv.org/abs/2408.00355)
 
-**Authors** · Yu Xie, Qian Qiao, Jun Gao, Tianxiang Wu, Jiaqing Fan, Yue Zhang, Jielei Zhang, Huyang Sun — *Soochow University & Bilibili Inc.*
+**Authors** · Yu Xie, Qian Qiao, Jun Gao, Tianxiang Wu, Jiaqing Fan, Yue Zhang, Jielei Zhang, Huyang Sun — *Soochow University & bilibili Inc.*
 
 ---
 

@@ -10,7 +10,7 @@ permalink: /papers/KUROKO/
 > **Project page** · <https://bilibili-kuroko.github.io>  
 > **PDF** · [`assets/pdfs/KUROKO-Severity-Aware-Ranking.pdf`](../assets/pdfs/KUROKO-Severity-Aware-Ranking.pdf)
 
-**Authors** · Yang Ou\*, Jielei Zhang\*†, Yu Dai, Zian Yang, Run Yang, Xiang Li, Weihang Wang, Xueqian Zhao, Peiyi Li, Longwen Gao — *Bilibili Inc.*  
+**Authors** · Yang Ou\*, Jielei Zhang\*†, Yu Dai, Zian Yang, Run Yang, Xiang Li, Weihang Wang, Xueqian Zhao, Peiyi Li, Longwen Gao — *bilibili Inc.*  
 <sub>\* equal contribution · † corresponding</sub>
 
 ---
@@ -54,7 +54,7 @@ Online video content moderation is critical for protecting minors, but violation
 
 - Beats traditional binary baselines on **offline** evaluation.
 - Competitive with leading commercial APIs at a fraction of their scale.
-- **Online A/B** on Bilibili: more human-confirmed enforcement actions than the previous binary system.
+- **Online A/B** on bilibili: more human-confirmed enforcement actions than the previous binary system.
 
 ## BibTeX
 

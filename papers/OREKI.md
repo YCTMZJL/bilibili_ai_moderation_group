@@ -9,7 +9,7 @@ permalink: /papers/OREKI/
 > **Venue** · EMNLP 2026 (Main)  
 > **PDF** · [`assets/pdfs/OREKI-When-Not-to-Think.pdf`](../assets/pdfs/OREKI-When-Not-to-Think.pdf)
 
-**Authors** · Yu Dai, Jielei Zhang, Yang Ou, Zian Yang, Run Yang, Xiang Li, Qingyao Zhuang, Peiyi Li, Longwen Gao — *Bilibili Inc.*
+**Authors** · Yu Dai, Jielei Zhang, Yang Ou, Zian Yang, Run Yang, Xiang Li, Qingyao Zhuang, Peiyi Li, Longwen Gao — *bilibili Inc.*
 
 ---
 
