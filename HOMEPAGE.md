@@ -24,7 +24,7 @@ This page is maintained solely for academic research and scholarly exchange, and
 
 <p>
   <a href="#-highlights--emnlp"><img alt="EMNLP" src="https://img.shields.io/badge/EMNLP-2025%20·%202026%20·%203%20papers-6D28D9?style=flat-square"></a>
-[redacted]
+  <a href="#-under-review"><img alt="Under review" src="https://img.shields.io/badge/Under%20review-ongoing-0EA5E9?style=flat-square"></a>
   <a href="#-publications"><img alt="Publications" src="https://img.shields.io/badge/Publications-2022%E2%80%932026-10B981?style=flat-square"></a>
   <a href="papers/TextFlux.md"><img alt="CGF 2026" src="https://img.shields.io/badge/CGF-2026%20·%20TextFlux-DB2777?style=flat-square"></a>
 </p>
@@ -36,7 +36,7 @@ This page is maintained solely for academic research and scholarly exchange, and
 
 ---
 
-## 👋 About
+## 💻 About
 
 We are the **Content Safety Foundation Group** at bilibili. Our research sits at the intersection of **large multimodal models**, **content moderation**, and **culture-grounded reasoning**. We build foundation models and benchmarks that help platforms protect minors and users while preserving legitimate expression on an open video community.
 
@@ -135,22 +135,16 @@ Our work spans six directions:
 
 ## 🧪 Under Review
 
-[redacted]
+We are also working on **meme understanding** — teaching multimodal models to read images whose meaning lives outside the pixels: cultural entities, community conventions, and the background knowledge a meme assumes its audience already shares. This matters for moderation because the same image can be harmless or harmful depending on the reference it carries.
 
-[redacted]
+我们也在研究**梗图（meme）理解**：让多模态模型读懂画面之外的含义——文化指涉、社区共识，以及梗图默认观众已经知道的背景知识。同一张图可能无害也可能有害，区别常常不在画面，而在它引用了什么。
 
-[redacted]
+Several threads are in progress:
 
-[redacted]
-[redacted]
-- 📄 Paper and details withheld during double-blind review
+- **Diagnostic evaluation** — decomposing "did the model get it" into what it sees, which entities it recognizes, what it knows, and how it connects them, so a failure can be located instead of merely scored.
+- **Autonomous visual investigation** — letting an agent decide what is worth looking up about an image, gather evidence, and ground its explanation in that evidence rather than in fluent guesswork.
 
-[redacted]
-
-LVLMs describe pixels well but miss **meaning that lives outside pixels**. MemeBench is a bilingual (CN + EN) diagnostic benchmark of **1,253** memes centered on ACG and online subcultures, with a **VIKR** rubric (Visual · Identity · Knowledge · Reasoning). Across 26 LVLMs, every model covers *what it sees* better than *what it knows*; even the strongest retains a **22.6% Visual–Knowledge gap**.
-
-- Introduces **KAR**, an entity-guided retrieval baseline over CultureBase; raises VIKR Success by **3.6–7.4%**.
-- 📄 Paper and details withheld during double-blind review
+Several manuscripts from this line are under double-blind review. Venues and drafts are withheld until decisions are released.
 
 ---
 
