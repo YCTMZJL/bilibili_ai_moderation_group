@@ -1,6 +1,6 @@
 <!-- ============================================================ -->
-<!--  Content Safety Foundation Group @ Bilibili Inc.             -->
-<!--  内容安全基座小组 · Bilibili                                   -->
+<!--  Content Safety Foundation Group @ bilibili Inc.             -->
+<!--  内容安全基座小组 · bilibili                                   -->
 <!-- ============================================================ -->
 
 <p align="center" class="page-disclaimer"><sub>
@@ -17,7 +17,7 @@ This page is maintained solely for academic research and scholarly exchange, and
 </td>
 <td align="left" style="border: none; padding: 0; vertical-align: middle;">
   <h1 style="margin: 0; border: none; padding: 0;">Content Safety Foundation Group</h1>
-  <sub>内容安全基座小组 · Bilibili Inc.</sub>
+  <sub>内容安全基座小组 · bilibili Inc.</sub>
 </td>
 </tr>
 </table>
@@ -38,9 +38,9 @@ This page is maintained solely for academic research and scholarly exchange, and
 
 ## 👋 About
 
-We are the **Content Safety Foundation Group** at Bilibili. Our research sits at the intersection of **large multimodal models**, **content moderation**, and **culture-grounded reasoning**. We build foundation models and benchmarks that help platforms protect minors and users while preserving legitimate expression on an open video community.
+We are the **Content Safety Foundation Group** at bilibili. Our research sits at the intersection of **large multimodal models**, **content moderation**, and **culture-grounded reasoning**. We build foundation models and benchmarks that help platforms protect minors and users while preserving legitimate expression on an open video community.
 
-我们专注于**大模型内容安全**方向，围绕 Bilibili 的视频、图像、文本审核场景，研究如何让多模态推理模型真正"看懂"内容、"分清"程度、"听懂"文化。
+我们专注于**大模型内容安全**方向，围绕 bilibili 的视频、图像、文本审核场景，研究如何让多模态推理模型真正"看懂"内容、"分清"程度、"听懂"文化。
 
 Our work spans six directions:
 
@@ -181,6 +181,6 @@ LVLMs describe pixels well but miss **meaning that lives outside pixels**. MemeB
 We're actively open-sourcing data engines, evaluation harnesses, and model checkpoints that stand behind the papers above. If you're a researcher working on **moderation evaluation**, **culture-aware VLMs**, or **reasoning-aware safety**, we'd love to compare notes.
 
 - 📬 Research contact · [yctmzjl@gmail.com](mailto:yctmzjl@gmail.com)
-- 🏢 Based at Bilibili Inc., Shanghai
+- 🏢 Based at bilibili Inc., Shanghai
 
-<sub>© Bilibili Inc. · Content Safety Foundation Group. Figures in this profile are from our papers linked above.</sub>
+<sub>© bilibili Inc. · Content Safety Foundation Group. Figures in this profile are from our papers linked above.</sub>

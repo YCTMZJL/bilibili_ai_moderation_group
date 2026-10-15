@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-/* Bilibili brand palette */
+/* bilibili brand palette */
 $bili-pink: #FB7299;
 $bili-blue: #00AEEC;
 $bili-pink-dark: #E85B88;
@@ -84,6 +84,22 @@ $ink: #1F2937;
 
   h3 {
     color: $ink;
+    font-weight: 700;
+    font-size: 1.28em;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    /* 条目之间用虚线分隔，区别于大模块的实线 <hr> */
+    padding-top: 2.2rem;
+    border-top: 1px dashed #e3e7ee;
+  }
+
+  /* 每个区段的第一个三级标题不画分隔线，也不要那么大的上间距 */
+  h2 + h3,
+  h2 + blockquote + h3,
+  h2 + p + h3 {
+    margin-top: 1.6rem;
+    padding-top: 0;
+    border-top: none;
   }
 
   /* code 色调 */

@@ -10,7 +10,7 @@ permalink: /papers/TextFlux/
 > **Paper** · [DOI](https://doi.org/10.1111/cgf.70342) · [arXiv](https://arxiv.org/abs/2505.17778)  
 > **Code** · <https://github.com/yyyyyxie/textflux>
 
-**Authors** · Yu Xie, Jielei Zhang, Pengyu Chen, Weihang Wang, Longwen Gao, Peiyi Li, Qian Qiao, Zhouhui Lian — *Bilibili Inc. · Wangxuan Institute of Computer Technology, Peking University*
+**Authors** · Yu Xie, Jielei Zhang, Pengyu Chen, Weihang Wang, Longwen Gao, Peiyi Li, Qian Qiao, Zhouhui Lian — *bilibili Inc. · Wangxuan Institute of Computer Technology, Peking University*
 
 ---
 
