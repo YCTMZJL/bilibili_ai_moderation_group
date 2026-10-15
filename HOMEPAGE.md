@@ -10,7 +10,17 @@ This page is maintained solely for academic research and scholarly exchange, and
 
 <div align="center">
 
-# Content Safety Foundation Group<br/><sub>内容安全基座小组 · Bilibili Inc.</sub>
+<table align="center" style="border: none; margin: 0 auto;">
+<tr style="border: none;">
+<td align="right" style="border: none; padding: 0 6px 0 0; vertical-align: middle;">
+  <img src="assets/figures/mascot.png" alt="Group mascot" width="104"/>
+</td>
+<td align="left" style="border: none; padding: 0; vertical-align: middle;">
+  <h1 style="margin: 0; border: none; padding: 0;">Content Safety Foundation Group</h1>
+  <sub>内容安全基座小组 · Bilibili Inc.</sub>
+</td>
+</tr>
+</table>
 
 <p>
   <a href="#-highlights--emnlp"><img alt="EMNLP" src="https://img.shields.io/badge/EMNLP-2025%20·%202026%20·%203%20papers-6D28D9?style=flat-square"></a>
