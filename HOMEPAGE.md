@@ -89,6 +89,7 @@ Our work spans three pillars:
 <p align="center" style="margin: 0.25rem auto;"><sub>Coarse-to-fine deployment with a lightweight recall classifier</sub></p>
 
 - Extensive offline + **online A/B** evidence over traditional binary baselines.
+- 🌐 Project page: <https://bilibili-kuroko.github.io>
 - 📄 [Paper (PDF)](assets/pdfs/KUROKO-Severity-Aware-Ranking.pdf) · [Details & BibTeX](papers/KUROKO.md)
 
 ### 3. VisionWeaver — *Diving into Mitigating Hallucinations from a Vision Perspective for LVLMs*
