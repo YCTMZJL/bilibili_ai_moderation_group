@@ -23,8 +23,8 @@ This page is maintained solely for academic research and scholarly exchange, and
 </table>
 
 <p>
-  <a href="#-highlights--emnlp"><img alt="EMNLP" src="https://img.shields.io/badge/EMNLP-2025%20·%202026%20·%203%20papers-6D28D9?style=flat-square"></a>
-  <a href="#-under-review"><img alt="Under review" src="https://img.shields.io/badge/Under%20review-ongoing-0EA5E9?style=flat-square"></a>
+  <a href="#-research-highlights--研究亮点"><img alt="EMNLP" src="https://img.shields.io/badge/EMNLP-2025%20·%202026%20·%203%20papers-6D28D9?style=flat-square"></a>
+  <a href="#-under-review--在审工作"><img alt="Under review" src="https://img.shields.io/badge/Under%20review-ongoing-0EA5E9?style=flat-square"></a>
   <a href="#-publications"><img alt="Publications" src="https://img.shields.io/badge/Publications-2024%E2%80%932026-10B981?style=flat-square"></a>
   <a href="papers/TextFlux.md"><img alt="Eurographics 2026" src="https://img.shields.io/badge/Eurographics-2026%20·%20TextFlux-DB2777?style=flat-square"></a>
 </p>
