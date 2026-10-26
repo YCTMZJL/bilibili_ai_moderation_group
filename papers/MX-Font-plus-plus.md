@@ -29,7 +29,7 @@ Experiments on several datasets show better visual quality than prior state-of-t
 
 OCR models in moderation have to read text in fonts and glyph styles they rarely see during training, and real violating samples written in such styles are sparse. A model only learns to read a style reliably after seeing enough examples of it.
 
-MX-Font++ is part of our **data generation engine** for OCR. From a handful of reference glyphs it produces a complete font library, which lets us diversify the glyph styles in synthetic training data, together with scene-text synthesis from [TextFlux](/papers/TextFlux/).
+MX-Font++ is part of our **data generation engine** for OCR. From a handful of reference glyphs it produces a complete font library, which lets us diversify the glyph styles in synthetic training data, together with scene-text synthesis from [TextFlux](../TextFlux/).
 
 ## BibTeX
 

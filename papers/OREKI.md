@@ -7,7 +7,7 @@ permalink: /papers/OREKI/
 # OREKI — When Not to Think: Mitigating the Overthinking Effect in Content Moderation
 
 > **Venue** · EMNLP 2026 (Main)  
-> **PDF** · [`assets/pdfs/OREKI-When-Not-to-Think.pdf`](../assets/pdfs/OREKI-When-Not-to-Think.pdf)
+> **PDF** · [`assets/pdfs/OREKI-When-Not-to-Think.pdf`](../../assets/pdfs/OREKI-When-Not-to-Think.pdf)
 
 **Authors** · Yu Dai, Jielei Zhang, Yang Ou, Zian Yang, Run Yang, Xiang Li, Qingyao Zhuang, Peiyi Li, Longwen Gao — *bilibili Inc.*
 
@@ -16,7 +16,7 @@ permalink: /papers/OREKI/
 ## Hero figure
 
 <p align="center">
-  <img src="../assets/figures/OREKI_overthinking2.png" alt="The Overthinking Effect — Chain-of-Thought talks itself into a false violation" width="92%"/>
+  <img src="../../assets/figures/OREKI_overthinking2.png" alt="The Overthinking Effect — Chain-of-Thought talks itself into a false violation" width="92%"/>
 </p>
 
 ## Why this paper
@@ -43,7 +43,7 @@ Full tables, ablations, and base-model sweeps are in the paper.
 ## Case
 
 <p align="center">
-  <img src="../assets/figures/OREKI_case9.png" alt="Case: CoT-off correct, CoT-on hallucinates a violation" width="94%"/>
+  <img src="../../assets/figures/OREKI_case9.png" alt="Case: CoT-off correct, CoT-on hallucinates a violation" width="94%"/>
 </p>
 
 Two benign inputs (an ear-cleaning ASMR clip and a digital-drawing app screenshot). With CoT off, the model answers correctly. With CoT on, the chain reasons itself into "disgust-relief" or "exposed genitalia" and flips to a false positive. OREKI learns to skip the chain here.
