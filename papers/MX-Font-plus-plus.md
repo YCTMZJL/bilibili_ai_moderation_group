@@ -25,9 +25,11 @@ MX-Font++ addresses this with two additions:
 
 Experiments on several datasets show better visual quality than prior state-of-the-art FFG methods.
 
-## Why it is on this page
+## Role in content safety
 
-Font generation is not a moderation task on its own, but the FFG stack — layered style/content disentanglement with mixture-of-experts aggregation — informs how we build **compact, specialist-combining models** elsewhere in the group, including the coarse-to-fine deployment path of **KUROKO** and the expert-routing design of **VisionWeaver**.
+OCR models in moderation have to read text in fonts and glyph styles they rarely see during training, and real violating samples written in such styles are sparse. A model only learns to read a style reliably after seeing enough examples of it.
+
+MX-Font++ is part of our **data generation engine** for OCR. From a handful of reference glyphs it produces a complete font library, which lets us diversify the glyph styles in synthetic training data, together with scene-text synthesis from [TextFlux](/papers/TextFlux/).
 
 ## BibTeX
 

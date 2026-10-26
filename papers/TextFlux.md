@@ -27,9 +27,11 @@ Diffusion-based scene text synthesis has moved fast, but existing methods lean o
 
 Extensive qualitative and quantitative experiments show TextFlux outperforms prior methods on both axes.
 
-## Why it is on this page
+## Role in content safety
 
-Scene-text synthesis is a core piece of the group's **multimodal content stack**: it feeds data generation for culture-aware VLMs (memes, posters, UI screenshots) and underpins the visual-generation pipelines used in moderation data augmentation. Keeping the architecture **OCR-free** and the training **data-efficient** matters directly for how we scale coverage into long-tail languages and subcultures that moderation systems like **KUROKO** have to deal with.
+Text embedded in images has to be read before it can be judged, so OCR models sit at the front of the moderation pipeline. Training them takes a large amount of labeled data, but real violating samples are sparse, unevenly spread across languages and styles, and costly to annotate.
+
+TextFlux serves as a **data generation engine** for these OCR models. It renders arbitrary target text into real scenes while preserving background, font, and lighting, so we can produce labeled training data at scale. Because it needs fewer than 1,000 samples to support a new language, it also extends coverage to low-resource languages where real data is hardest to collect.
 
 ## BibTeX
 

@@ -54,7 +54,7 @@ Our work spans six directions:
 | 🧠 **Reasoning for Moderation** | When does CoT help, when does it over-fire? | [`OREKI`](papers/OREKI/) · EMNLP 2026 |
 | 📏 **Severity, not Binary** | Replace 0/1 labels with a human-aligned risk spectrum | [`KUROKO`](papers/KUROKO/) · EMNLP 2026 |
 | 🖼️ **Culture-Aware VLMs** | Memes, subcultures, retrieval-augmented interpretation | [`MemeBench`](https://arxiv.org/abs/2607.27798) · more under review |
-| ✒️ **Scene-Text Stack** | Recognition + OCR-free synthesis for text-in-image | [`DNTextSpotter`](papers/DNTextSpotter/) · MM 2024 · [`TextFlux`](papers/TextFlux/) · Eurographics 2026 |
+| ✒️ **Scene-Text Stack** | OCR for text in images, plus synthesis engines that generate its scarce training data | [`DNTextSpotter`](papers/DNTextSpotter/) · MM 2024 · [`TextFlux`](papers/TextFlux/) · Eurographics 2026 |
 | 👁️ **Hallucination-Aware Vision** | Fine-grained hallucination profiling and expert routing | [`VisionWeaver`](papers/VisionWeaver/) · EMNLP 2025 Findings |
 | 🔍 **Retrieval for Moderation** | Large-scale multimodal retrieval and recall over risky content | Technical report *coming soon* |
 
@@ -134,6 +134,7 @@ Our work spans six directions:
 
 > **TL;DR**  Diffusion-based scene text synthesis has leaned on extra visual-conditioning modules and large annotated corpora to go multilingual. **TextFlux** shows a cleaner path: a DiT-based framework with **no OCR encoder**, trained on **~1% of the data** competing methods need, that still handles **low-resource languages with <1,000 samples** and gives precise **multi-line layout control**.
 
+- **Role in content safety:** TextFlux works as a data engine for our OCR models. Real violating text-in-image samples are sparse, while OCR models need large amounts of labeled data to learn; synthesis fills that gap at scale, including for low-resource languages.
 - 📄 [DOI](https://doi.org/10.1111/cgf.70342) · 💻 Code: <https://github.com/yyyyyxie/textflux> · [Details & BibTeX](papers/TextFlux/)
 
 ---
