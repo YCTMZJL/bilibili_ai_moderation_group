@@ -25,7 +25,7 @@ This page is maintained solely for academic research and scholarly exchange, and
 <p>
   <a href="#-highlights--emnlp"><img alt="EMNLP" src="https://img.shields.io/badge/EMNLP-2025%20·%202026%20·%203%20papers-6D28D9?style=flat-square"></a>
   <a href="#-under-review"><img alt="Under review" src="https://img.shields.io/badge/Under%20review-ongoing-0EA5E9?style=flat-square"></a>
-  <a href="#-publications"><img alt="Publications" src="https://img.shields.io/badge/Publications-2022%E2%80%932026-10B981?style=flat-square"></a>
+  <a href="#-publications"><img alt="Publications" src="https://img.shields.io/badge/Publications-2024%E2%80%932026-10B981?style=flat-square"></a>
   <a href="papers/TextFlux.md"><img alt="Eurographics 2026" src="https://img.shields.io/badge/Eurographics-2026%20·%20TextFlux-DB2777?style=flat-square"></a>
 </p>
 
@@ -57,7 +57,7 @@ Our work spans six directions:
 
 ## 🌟 Research Highlights
 
-> Three EMNLP papers (2025–2026) on reasoning-aware moderation plus one Eurographics 2026 paper on data-efficient multilingual visual generation.
+> Three EMNLP papers (2025–2026) on content moderation and multimodal reliability, plus one Eurographics 2026 paper on multilingual scene-text synthesis.
 
 ### 1. OREKI — *When Not to Think: Mitigating the Overthinking Effect in Content Moderation*
 
@@ -135,9 +135,9 @@ Our work spans six directions:
 
 ## 🧪 Under Review
 
-We are also working on **meme understanding** — teaching multimodal models to read images whose meaning lives outside the pixels: cultural entities, community conventions, and the background knowledge a meme assumes its audience already shares. This matters for moderation because the same image can be harmless or harmful depending on the reference it carries.
+We are also working on **meme understanding** — teaching multimodal models to read images whose meaning lives outside the pixels: cultural entities, community conventions, and the background knowledge a meme assumes its audience already shares. A meme rarely means what it literally shows; its meaning comes from the context it is used in, the source it references, and the way a community has come to use it.
 
-我们也在研究**梗图（meme）理解**：让多模态模型读懂画面之外的含义——文化指涉、社区共识，以及梗图默认观众已经知道的背景知识。同一张图可能无害也可能有害，区别常常不在画面，而在它引用了什么。
+我们也在研究**梗图（meme）理解**：让多模态模型读懂画面之外的含义——文化指涉、社区共识，以及梗图默认观众已经知道的背景知识。一张梗图想表达的，往往不是画面字面上的内容，而取决于它所处的语境、引用的出处，以及社区里约定俗成的用法。
 
 Several threads are in progress:
 
@@ -150,7 +150,7 @@ Several manuscripts from this line are under double-blind review. Venues and dra
 
 ## 📚 Publications
 
-> Papers from the group (2022–2026). Chronological, latest first. Starred rows ⭐ are current highlights.
+> Papers from the group (2024–2026). Chronological, latest first. Starred rows ⭐ are current highlights.
 
 | Year | Venue | Paper | Links |
 | :---: | :---: | --- | :---: |

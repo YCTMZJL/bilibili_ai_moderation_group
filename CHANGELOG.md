@@ -19,7 +19,3 @@
 ## 2024
 
 - **ACM MM 2024** · *DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training* ([DOI](https://doi.org/10.1145/3664647.3680981) · [arXiv:2408.00355](https://arxiv.org/abs/2408.00355)).
-
-## 2022–2023
-
-Earlier works in video / image understanding and content moderation infrastructure — see the full Google Scholar profile linked from the main README.
