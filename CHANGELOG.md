@@ -14,7 +14,7 @@
 ## 2025
 
 - **EMNLP 2025 (Findings)** · *Diving into Mitigating Hallucinations from a Vision Perspective for Large Vision-Language Models* (**VisionWeaver**). Code: <https://github.com/whwangovo/VisionWeaver>.
-- **ICASSP 2025** · *MX-Font++: Mixture of Heterogeneous Aggregation Experts for Few-shot Font Generation*.
+- **ICASSP 2025** · *MX-Font++: Mixture of Heterogeneous Aggregation Experts for Few-shot Font Generation* ([arXiv:2503.02799](https://arxiv.org/abs/2503.02799) · code: <https://github.com/stephensun11/MXFontpp>).
 
 ## 2024
 

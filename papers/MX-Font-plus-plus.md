@@ -7,7 +7,8 @@ permalink: /papers/MX-Font-plus-plus/
 # MX-Font++ — Mixture of Heterogeneous Aggregation Experts for Few-shot Font Generation
 
 > **Venue** · ICASSP 2025  
-> **Paper** · [DOI](https://doi.org/10.1109/icassp49660.2025.10888465)
+> **Paper** · [DOI](https://doi.org/10.1109/icassp49660.2025.10888465) · [arXiv:2503.02799](https://arxiv.org/abs/2503.02799)  
+> **Code** · <https://github.com/stephensun11/MXFontpp>
 
 **Authors** · Weihang Wang, Duolin Sun, Jielei Zhang, Longwen Gao
 
@@ -15,7 +16,14 @@ permalink: /papers/MX-Font-plus-plus/
 
 ## Summary
 
-Few-shot font generation (FFG) requires disentangling and recomposing style and content signals from only a few reference glyphs. MX-Font++ extends the MX-Font line with a **mixture of heterogeneous aggregation experts**, letting the model specialise different experts to different structural priors of the character before combining them.
+Few-shot font generation (FFG) builds a new font library from only a handful of reference glyphs, which matters for digital accessibility in low-resource languages. MX-Font models a character through its local components and uses a Mixture of Experts to extract them, but without a strong feature extractor it cannot fully separate content from style.
+
+MX-Font++ addresses this with two additions:
+
+- **Heterogeneous Aggregation Experts (HAE)** — feature-extraction experts that aggregate information across both channel and spatial dimensions, giving the downstream decoupling of content and style a stronger starting point.
+- **Content-style homogeneity loss** — a new training objective that further disentangles the two.
+
+Experiments on several datasets show better visual quality than prior state-of-the-art FFG methods.
 
 ## Why it is on this page
 
