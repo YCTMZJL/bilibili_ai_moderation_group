@@ -56,7 +56,7 @@ Our work spans six directions:<br/>我们的研究涵盖六个方向：
 | 🖼️ **Culture-Aware VLMs**<br/>文化感知多模态模型 | Memes, subcultures, retrieval-augmented interpretation<br/>梗图、亚文化与检索增强的语义理解 | [`MemeBench`](https://arxiv.org/abs/2607.27798) · more under review |
 | ✒️ **Scene-Text Understanding**<br/>场景文字理解 | OCR for text in images, plus synthesis engines that generate its scarce training data<br/>图像文字识别（OCR），以及为其生成稀缺训练数据的合成引擎 | [`DNTextSpotter`](papers/DNTextSpotter/) · MM 2024 · [`TextFlux`](papers/TextFlux/) · Eurographics 2026 |
 | 👁️ **Hallucination-Aware Vision**<br/>视觉幻觉缓解 | Fine-grained hallucination profiling and expert routing<br/>细粒度幻觉评测与多视觉专家路由 | [`VisionWeaver`](papers/VisionWeaver/) · EMNLP 2025 Findings |
-| 🔍 **Retrieval for Moderation**<br/>审核检索 | Large-scale multimodal retrieval and recall over risky content<br/>面向风险内容的大规模多模态检索与召回 | Technical report *coming soon* |
+| 🔍 **Retrieval for Moderation**<br/>违规检索 | Large-scale multimodal retrieval and recall over risky content<br/>面向风险内容的大规模多模态检索与召回 | Technical report *coming soon* |
 
 ---
 
