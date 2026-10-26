@@ -42,16 +42,16 @@ We are the **Content Safety Foundation Group** at bilibili. Our research sits at
 
 我们专注于**大模型内容安全**方向，围绕 bilibili 的视频、图像、文本审核场景，研究如何让多模态推理模型真正"看懂"内容、"分清"程度、"听懂"文化。
 
-Our work spans six directions:
+Our work spans six directions:<br/>我们的研究涵盖六个方向：
 
-| Pillar | What we tackle | Representative work |
+| Pillar · 方向 | What we tackle · 研究问题 | Representative work · 代表工作 |
 | --- | --- | --- |
-| 🧠 **Reasoning for Moderation** | When does CoT help, when does it over-fire? | [`OREKI`](papers/OREKI.md) · EMNLP 2026 |
-| 📏 **Severity, not Binary** | Replace 0/1 labels with a human-aligned risk spectrum | [`KUROKO`](papers/KUROKO.md) · EMNLP 2026 |
-| 🖼️ **Culture-Aware VLMs** | Memes, subcultures, retrieval-augmented interpretation | [`MemeBench`](https://arxiv.org/abs/2607.27798) · more under review |
-| ✒️ **Scene-Text Understanding** | OCR for text in images, plus synthesis engines that generate its scarce training data | [`DNTextSpotter`](papers/DNTextSpotter.md) · MM 2024 · [`TextFlux`](papers/TextFlux.md) · Eurographics 2026 |
-| 👁️ **Hallucination-Aware Vision** | Fine-grained hallucination profiling and expert routing | [`VisionWeaver`](papers/VisionWeaver.md) · EMNLP 2025 Findings |
-| 🔍 **Retrieval for Moderation** | Large-scale multimodal retrieval and recall over risky content | Technical report *coming soon* |
+| 🧠 **Reasoning for Moderation**<br/>审核推理 | When does CoT help, when does it over-fire?<br/>思维链何时有帮助，何时会过度推理导致误判 | [`OREKI`](papers/OREKI.md) · EMNLP 2026 |
+| 📏 **Severity, not Binary**<br/>风险分级 | Replace 0/1 labels with a human-aligned risk spectrum<br/>用与人工判断对齐的连续风险等级替代 0/1 二分类 | [`KUROKO`](papers/KUROKO.md) · EMNLP 2026 |
+| 🖼️ **Culture-Aware VLMs**<br/>文化感知多模态模型 | Memes, subcultures, retrieval-augmented interpretation<br/>梗图、亚文化与检索增强的语义理解 | [`MemeBench`](https://arxiv.org/abs/2607.27798) · more under review |
+| ✒️ **Scene-Text Understanding**<br/>场景文字理解 | OCR for text in images, plus synthesis engines that generate its scarce training data<br/>图像文字识别（OCR），以及为其生成稀缺训练数据的合成引擎 | [`DNTextSpotter`](papers/DNTextSpotter.md) · MM 2024 · [`TextFlux`](papers/TextFlux.md) · Eurographics 2026 |
+| 👁️ **Hallucination-Aware Vision**<br/>视觉幻觉缓解 | Fine-grained hallucination profiling and expert routing<br/>细粒度幻觉评测与多视觉专家路由 | [`VisionWeaver`](papers/VisionWeaver.md) · EMNLP 2025 Findings |
+| 🔍 **Retrieval for Moderation**<br/>审核检索 | Large-scale multimodal retrieval and recall over risky content<br/>面向风险内容的大规模多模态检索与召回 | Technical report *coming soon* |
 
 ---
 
