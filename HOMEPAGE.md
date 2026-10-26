@@ -49,7 +49,7 @@ Our work spans six directions:
 | 🧠 **Reasoning for Moderation** | When does CoT help, when does it over-fire? | [`OREKI`](papers/OREKI.md) · EMNLP 2026 |
 | 📏 **Severity, not Binary** | Replace 0/1 labels with a human-aligned risk spectrum | [`KUROKO`](papers/KUROKO.md) · EMNLP 2026 |
 | 🖼️ **Culture-Aware VLMs** | Memes, subcultures, retrieval-augmented interpretation | [`MemeBench`](https://arxiv.org/abs/2607.27798) · more under review |
-| ✒️ **Scene-Text Stack** | OCR for text in images, plus synthesis engines that generate its scarce training data | [`DNTextSpotter`](papers/DNTextSpotter.md) · MM 2024 · [`TextFlux`](papers/TextFlux.md) · Eurographics 2026 |
+| ✒️ **Scene-Text Understanding** | OCR for text in images, plus synthesis engines that generate its scarce training data | [`DNTextSpotter`](papers/DNTextSpotter.md) · MM 2024 · [`TextFlux`](papers/TextFlux.md) · Eurographics 2026 |
 | 👁️ **Hallucination-Aware Vision** | Fine-grained hallucination profiling and expert routing | [`VisionWeaver`](papers/VisionWeaver.md) · EMNLP 2025 Findings |
 | 🔍 **Retrieval for Moderation** | Large-scale multimodal retrieval and recall over risky content | Technical report *coming soon* |
 
