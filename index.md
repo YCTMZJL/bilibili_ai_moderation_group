@@ -15,17 +15,8 @@ This page is maintained by an informal, member-organized study group and is not 
 
 <div align="center">
 
-<table align="center" style="border: none; margin: 0 auto;">
-<tr style="border: none;">
-<td align="right" style="border: none; padding: 0 6px 0 0; vertical-align: middle;">
-  <img src="assets/figures/mascot.png" alt="Group mascot" width="188"/>
-</td>
-<td align="left" style="border: none; padding: 0; vertical-align: middle;">
-  <h1 style="margin: 0; border: none; padding: 0;">Content Safety Study Group</h1>
-  <sub>风纪委员会 · 内容安全学习小组</sub>
-</td>
-</tr>
-</table>
+<h1 style="margin: 0; border: none; padding: 0;">Content Safety Study Group</h1>
+<sub>风纪委员会 · 内容安全学习小组</sub>
 
 <p>
   <a href="#-research-highlights--研究亮点"><img alt="EMNLP" src="https://img.shields.io/badge/EMNLP-2025%20·%202026%20·%203%20papers-6D28D9?style=flat-square"></a>
