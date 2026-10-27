@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Content Safety Foundation Group
+title: Content Safety Study Group
 ---
 
 <!-- ============================================================ -->
-<!--  Content Safety Foundation Group @ bilibili Inc.             -->
-<!--  内容安全基座小组 · bilibili                                   -->
+<!--  Content Safety Study Group (informal, member-organized)                        -->
+<!--  风纪委员会 · 内容安全学习小组                                -->
 <!-- ============================================================ -->
 
 <p align="center" class="page-disclaimer"><sub>
-This page is maintained solely for academic research and scholarly exchange, and is not intended for any commercial use.<br/>
-本主页仅用于学术研究与交流，不作任何商业用途。
+This page is maintained by an informal, member-organized study group and is not an official bilibili team. Its content is shared for academic exchange only and may not be used for any commercial purpose. The views expressed here are solely those of the group.<br/>
+本小组由成员自发组织，非 bilibili 官方团队。本页内容仅供学术交流，不得用于任何商业用途，观点仅代表小组立场。
 </sub></p>
 
 <div align="center">
@@ -21,8 +21,8 @@ This page is maintained solely for academic research and scholarly exchange, and
   <img src="assets/figures/mascot.png" alt="Group mascot" width="188"/>
 </td>
 <td align="left" style="border: none; padding: 0; vertical-align: middle;">
-  <h1 style="margin: 0; border: none; padding: 0;">Content Safety Foundation Group</h1>
-  <sub>内容安全基座小组 · bilibili Inc.</sub>
+  <h1 style="margin: 0; border: none; padding: 0;">Content Safety Study Group</h1>
+  <sub>风纪委员会 · 内容安全学习小组</sub>
 </td>
 </tr>
 </table>
@@ -43,9 +43,9 @@ This page is maintained solely for academic research and scholarly exchange, and
 
 ## 💻 About · 关于我们
 
-We are the **Content Safety Foundation Group** at bilibili. Our research sits at the intersection of **large multimodal models**, **content moderation**, and **culture-grounded reasoning**. We build foundation models and benchmarks that help platforms protect minors and users while preserving legitimate expression on an open video community.
+We are the **Content Safety Study Group**, an informal study group formed by researchers from the bilibili safety team. Our research sits at the intersection of **large multimodal models**, **content moderation**, and **culture-grounded reasoning**. We build foundation models and benchmarks that help platforms protect minors and users while preserving legitimate expression on an open video community.
 
-我们专注于**大模型内容安全**方向，围绕 bilibili 的视频、图像、文本审核场景，研究如何让多模态推理模型真正"看懂"内容、"分清"程度、"听懂"文化。
+我们是 bilibili 安全团队的研究者自发组成的学习小组「风纪委员会」，专注于**大模型内容安全**方向，围绕 bilibili 的视频、图像、文本审核场景，研究如何让多模态推理模型真正"看懂"内容、"分清"程度、"听懂"文化。
 
 Our work spans six directions:<br/>我们的研究涵盖六个方向：
 
@@ -191,6 +191,6 @@ We're actively open-sourcing data engines, evaluation harnesses, and model check
 我们正在开源论文背后的数据引擎、评测工具和模型权重。如果你也在研究**审核评测**、**文化感知多模态模型**或**推理驱动的安全**，欢迎交流。
 
 - 📬 Research contact · 联系邮箱 · [yctmzjl@gmail.com](mailto:yctmzjl@gmail.com)
-- 🏢 Based at bilibili Inc., Shanghai · 位于上海 bilibili
+- 🏢 Members based in Shanghai · 成员位于上海
 
-<sub>© bilibili Inc. · Content Safety Foundation Group. Figures in this profile are from our papers linked above.<br/>本页图片均来自上方链接的论文。</sub>
+<sub>© Content Safety Study Group members. Figures in this profile are from our papers linked above.<br/>本页图片均来自上方链接的论文。</sub>
