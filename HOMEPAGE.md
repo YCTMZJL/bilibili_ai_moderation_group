@@ -39,7 +39,7 @@ Our work spans six directions:<br/>我们的研究涵盖六个方向：
 | --- | --- | --- |
 | 🧠 **Reasoning for Moderation**<br/>审核推理 | When does CoT help, when does it over-fire?<br/>思维链何时有帮助，何时会过度推理导致误判 | [`OREKI`](papers/OREKI.md) · EMNLP 2026 |
 | 📏 **Severity, not Binary**<br/>风险分级 | Replace 0/1 labels with a human-aligned risk spectrum<br/>用与人工判断对齐的连续风险等级替代 0/1 二分类 | [`KUROKO`](papers/KUROKO.md) · EMNLP 2026 |
-| 🖼️ **Culture-Aware VLMs**<br/>文化感知多模态模型 | Memes, subcultures, retrieval-augmented interpretation<br/>梗图、亚文化与检索增强的语义理解 | [`MemeBench`](https://arxiv.org/abs/2607.27798) · more under review |
+| 🖼️ **Culture-Aware VLMs**<br/>文化感知多模态模型 | Memes, subcultures, retrieval-augmented interpretation<br/>梗图、亚文化与检索增强的语义理解 | [`MemeBench`](https://arxiv.org/abs/2607.27798) · [`MemeMind`](https://arxiv.org/abs/2608.09316) · under review |
 | ✒️ **Scene-Text Understanding**<br/>场景文字理解 | OCR for text in images, plus synthesis engines that generate its scarce training data<br/>图像文字识别（OCR），以及为其生成稀缺训练数据的合成引擎 | [`DNTextSpotter`](papers/DNTextSpotter.md) · MM 2024 · [`TextFlux`](papers/TextFlux.md) · Eurographics 2026 |
 | 👁️ **Hallucination-Aware Vision**<br/>视觉幻觉缓解 | Fine-grained hallucination profiling and expert routing<br/>细粒度幻觉评测与多视觉专家路由 | [`VisionWeaver`](papers/VisionWeaver.md) · EMNLP 2025 Findings |
 | 🔍 **Retrieval for Moderation**<br/>违规检索 | Large-scale multimodal retrieval and recall over risky content<br/>面向风险内容的大规模多模态检索与召回 | Technical report *coming soon* |
@@ -160,7 +160,7 @@ Several manuscripts from this line are under double-blind review. Venues and dra
 | 2026 | *Under review* | *Title withheld during double-blind review* | _withheld_ |
 | 2026 | *Under review* | MemeBench: What LVLMs Miss When Interpreting Culture-Dependent Memes | [arXiv:2607.27798](https://arxiv.org/abs/2607.27798) |
 | **2026** | **Eurographics** ⭐ | **TextFlux: An OCR-Free DiT Model for High-Fidelity Multilingual Scene Text Synthesis** | [DOI](https://doi.org/10.1111/cgf.70342) · [page](papers/TextFlux.md) |
-| 2026 | arXiv | MemeMind: Reference-Guided Trace Construction for Offline Context Optimization | [arXiv:2608.09316](https://arxiv.org/abs/2608.09316) |
+| 2026 | *Under review* | MemeMind: Reference-Guided Trace Construction for Offline Context Optimization | [arXiv:2608.09316](https://arxiv.org/abs/2608.09316) |
 | **2025** | **EMNLP Findings** ⭐ | **Diving into Mitigating Hallucinations from a Vision Perspective for LVLMs** (VisionWeaver) | [Anthology](https://aclanthology.org/2025.findings-emnlp.936/) · [page](papers/VisionWeaver.md) |
 | 2025 | ICASSP | MX-Font++: Mixture of Heterogeneous Aggregation Experts for Few-shot Font Generation | [DOI](https://doi.org/10.1109/icassp49660.2025.10888465) · [arXiv](https://arxiv.org/abs/2503.02799) · [page](papers/MX-Font-plus-plus.md) |
 | 2024 | ACM MM | DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training | [DOI](https://doi.org/10.1145/3664647.3680981) · [arXiv](https://arxiv.org/abs/2408.00355) · [page](papers/DNTextSpotter.md) |
